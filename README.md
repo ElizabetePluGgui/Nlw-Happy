@@ -23,3 +23,5 @@
 yarn create react-app web --template typescript
 
 yarn add react-icons
+yarn add react-router-dom
+npm install @types/react-router-dom -D
