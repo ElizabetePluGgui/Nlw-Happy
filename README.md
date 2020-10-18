@@ -22,3 +22,11 @@
  <a href="#licença">Licença</a>
 </p>
 
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/QLyA622y0lJNipwkKKfJAl/Happy-Web-(Copy).
+
+## Autor:
+
+Feito por Elizabete de Sousa Fabri 💙💙💙
+
