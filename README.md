@@ -21,3 +21,5 @@
 </p>
 
 yarn create react-app web --template typescript
+
+yarn add react-icons
