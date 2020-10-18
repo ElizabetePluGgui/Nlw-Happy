@@ -1,12 +1,14 @@
 <h1 align="center" >🚀 Next Level Week #3</h1>
 
+<p align="center" style="font-size: 24px">"Uma semana para acelerar sua evolução como dev e avançar para o próximo nível"</p>
+
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
   </a>
 </p>
 
-<p align="center" style="font-size: 24px">"Uma semana para acelerar sua evolução como dev e avançar para o próximo nível"</p>
+
 
 <div align="center"  > <img src="https://user-images.githubusercontent.com/48728541/95793825-d3b26180-0cbc-11eb-9684-285a83e7374f.png" /> </div>
 
@@ -20,8 +22,3 @@
  <a href="#licença">Licença</a>
 </p>
 
-yarn create react-app web --template typescript
-
-yarn add react-icons
-yarn add react-router-dom
-npm install @types/react-router-dom -D
